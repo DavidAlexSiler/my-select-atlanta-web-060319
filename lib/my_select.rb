@@ -1,3 +1,4 @@
 def my_select(collection)
-if collection
+if collection.count == 0
+  
 end

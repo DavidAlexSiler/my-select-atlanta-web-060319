@@ -4,5 +4,5 @@ if collection.count == 0
 else
   counter = 0
   new_arr = []
-  
+  while counter > 0
 end
